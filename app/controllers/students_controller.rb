@@ -1,6 +1,7 @@
 class StudentsController < ApplicationController
   
-  get '/students'
+  get '/students' do
+    erb 
   
   
   
